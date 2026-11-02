@@ -1,0 +1,12 @@
+{
+ "name": "sunflow-tests",
+ "private": true,
+ "scripts": {
+  "test": "node run.js"
+ },
+ "dependencies": {
+  "jsdom": "^24.0.0",
+  "xlsx": "0.18.5",
+  "fake-indexeddb": "^6.0.0"
+ }
+}
